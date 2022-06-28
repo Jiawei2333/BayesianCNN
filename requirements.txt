@@ -1,7 +1,7 @@
 absl-py==0.5.0
 alabaster==0.7.11
 appnope==0.1.0
-arrow==0.13.1
+arrow==0.15.1
 astor==0.7.1
 atomicwrites==1.2.1
 attrs==18.2.0
